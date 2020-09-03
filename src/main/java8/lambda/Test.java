@@ -1,4 +1,4 @@
-package main.java.java8.lambda;
+package main.java8.lambda;
 
 import org.w3c.dom.ls.LSOutput;
 

@@ -1,4 +1,4 @@
-package main.java.java8.lambda.example;
+package main.java8.lambda.example;
 
 import java.util.Arrays;
 import java.util.Collections;
